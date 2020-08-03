@@ -12,7 +12,7 @@ I am CS Student at FCSE, UKIM Skopje. I am passionate about exploring new techno
 
 2. Python
   
-+ Including the following libraries: intermediate knowledge of open-cv for DIP (digital image processing), intermediate knowledge of sklearn for ML (machine  learning), beginner (currently working to advance my skills) of keras with tensorflow as backend api.
++ Including the following libraries: intermediate knowledge of open-cv for DIP (digital image processing), intermediate knowledge of sklearn for ML (machine  learning), beginner (currently working to advance my skills) knowledge of keras with tensorflow as backend api.
 
 3. MVC web apps
 
