@@ -34,7 +34,7 @@ I am CS Student at FCSE, UKIM Skopje. I am passionate about exploring new techno
 
 
 
-1. [BookLibrary](www.github.com)
+1. [BookLibrary](https://rebrand.ly/b1r8vm8)
 2. [aIM](www.github.com)
 
 #### 🌍 Find me around the web!
