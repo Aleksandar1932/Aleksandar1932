@@ -24,7 +24,12 @@ I am CS Student at FCSE, UKIM Skopje. I am passionate about exploring new techno
 
 5. Firebase
 
-+ As BaaS - Backend as a service for web & mobile apps.
++ As BaaS - Backend as a service for web & mobile apps, with primary focus on:
+  + Firestore
+  + Cloud functions
+  + Cloud messaging
+  + In app messaging
+  + Analytics
 </li>
 </ul>
 
