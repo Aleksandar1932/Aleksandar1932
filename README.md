@@ -2,7 +2,9 @@
 
 #### 🧑‍💻 About me
 
-I am CS Student at FCSE, UKIM Skopje. I am passionate about exploring new technologies and improving my current and learning new skills. Currently my main interests are machine learning, web and native Android and iOS apps.
+I am CS Student at FCSE, UKIM Skopje. I am passionate about exploring new technologies and constantly improving my current and also learning new skills. 
+
+Currently, my main interests are data science and web and mobile app development.
 
 #### ⚡ My skills
 
@@ -12,15 +14,17 @@ I am CS Student at FCSE, UKIM Skopje. I am passionate about exploring new techno
 
 2. Python
   
-+ Including the following libraries: intermediate knowledge of open-cv for DIP (digital image processing), intermediate knowledge of sklearn for ML (machine  learning), beginner (currently working to advance my skills) knowledge of keras with tensorflow as backend api.
++ Including the following libraries: intermediate knowledge of open-cv for DIP (digital image processing), intermediate knowledge of sklearn for ML (machine learning), beginner (currently working to advance my skills) knowledge of keras with tensorflow as backend API.
 
-3. MVC web apps
+3. Web development
 
-+ With solid knowledge of ASP.NET MVC and the popular PHP framework Laravel.
++ Currently learning the concepts of Java EE platform, along with the Spring Framework.
 
-4. Native mobile apps (Android and iOS)
++ Solid knowledge and experience with ASP.NET MVC and the popular PHP framework Laravel.
 
-+ Using Google's framework - Flutter.
+4. Mobile development
+
++ Native mobile apps development using the Flutter framework.
 
 5. Firebase
 
@@ -35,9 +39,7 @@ I am CS Student at FCSE, UKIM Skopje. I am passionate about exploring new techno
 
 #### 🚀 List of my projects
 
-🔓 I encourage the open source development, so all of the following projects are available for anyone.
-
-
+🔓 I encourage open source development, so all of the following projects are initially started by me, but the codebase is available for anyone.
 
 1. [BookLibrary](https://rebrand.ly/b1r8vm8)
 2. [ToDo](https://github.com/Aleksandar1932/todo-app)
