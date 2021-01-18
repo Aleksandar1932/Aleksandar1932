@@ -46,8 +46,11 @@ Currently, my main interests are data science and web and mobile app development
 
 #### 🌍 Find me around the web!
 
-1. My LinkedIn profile is available [here](https://www.linkedin.com/in/aleksandar1932/).
-2. My Twitter is available [here](https://twitter.com/a_ivanovski19).
+<a href="https://www.linkedin.com/in/aleksandar1932/"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+<a href="https://twitter.com/a_ivanovski19"> ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+
+
 
 
 <!--
