@@ -2,44 +2,55 @@
 
 #### 🧑‍💻 About me
 
-I am CS Student at FCSE, UKIM Skopje. I am passionate about exploring new technologies and constantly improving my current and also learning new skills. 
+I am third year Computer Science student, passionate about exploring new concepts, technologies and improving my skillset. I want to further improve my competencies by learning from experienced engineers and researchers and participating in various activities.
 
-Currently, my main interests are data science and web and mobile app development.
+Currently, my main interests are data science, machine learning, web and mobile development.
+
+#### 📈 Stats
+
+_Private Repositories are excluded_
+
+![2](https://github-readme-stats.vercel.app/api?username=Aleksandar1932&layout=compact)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandar1932&layout=compact)
+
+
 
 #### ⚡ My skills
 
-1. Java
-  
-+ Including the following core topics and concepts: Main OOP concepts, Generics, Multi-threading, Synchronization, I/O streams, File management, Networking.
+##### Machine Learning and Data Science
 
-2. Python
-  
-+ Including the following libraries: intermediate knowledge of open-cv for DIP (digital image processing), intermediate knowledge of sklearn for ML (machine learning), beginner (currently working to advance my skills) knowledge of keras with tensorflow as backend API.
+- NLP Transformers 
 
-3. Web development
+- Python Scientific Toolkit(numpy, pandas, scipy, matplotlib, sklearn etc.) 
 
-+ Currently learning the concepts of Java EE platform, along with the Spring Framework.
+- Machine Learning and Deep Learning frameworks: Tensorflow, Keras, PyTorch   
 
-+ Solid knowledge and experience with ASP.NET MVC and the popular PHP framework Laravel.
+- NLP
 
-4. Mobile development
+- Supervised & Unsupervised Learning
 
-+ Native mobile apps development using the Flutter framework.
+##### Web Development
 
-5. Firebase
+- JUnit, Mockito, Selenium 
 
-+ As BaaS - Backend as a service for web & mobile apps, with primary focus on:
-  + Firestore
-  + Cloud functions
-  + Cloud messaging
-  + In app messaging
-  + Analytics
-</li>
-</ul>
+- ASP.NET MVC 
+
+- Basic knowledge of React 
+
+- Spring Framework (Spring Boot, Spring Security, Spring Data, Spring MVC) 
+
+- PHP Laravel
+
+##### Mobile Development
+
+- Flutter & Dart 
+
+- Firebase
+
 
 #### 🚀 List of my projects
 
-🔓 I encourage open source development, so all of the following projects are initially started by me, but the codebase is available for anyone.
+I encourage open source development, so all of the following projects are initially started by me, but the codebase is available for anyone.
 
 1. [BookLibrary](https://rebrand.ly/b1r8vm8)
 2. [ToDo](https://github.com/Aleksandar1932/todo-app)
@@ -49,22 +60,3 @@ Currently, my main interests are data science and web and mobile app development
 <a href="https://www.linkedin.com/in/aleksandar1932/"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <a href="https://twitter.com/a_ivanovski19"> ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
-
-
-
-
-<!--
-**Aleksandar1932/Aleksandar1932** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  
