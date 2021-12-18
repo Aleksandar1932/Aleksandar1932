@@ -2,9 +2,11 @@
 
 #### 🧑‍💻 About me
 
-I am third year Computer Science student, passionate about exploring new concepts, technologies and improving my skillset. I want to further improve my competencies by learning from experienced engineers and researchers and participating in various activities.
 
-Currently, my main interests are data science, machine learning, web and mobile development.
+
+Final-year Computer Science Student, passionate about exploring new concepts, comfortable with working in a team, technologies and improving my existing skills through a continuous process of learning. Exploring new research areas and participation in various activities in order to improve competencies. Industry and Research interests spanning over data science, machine learning, web and mobile development.
+
+
 
 #### 📈 Stats
 
@@ -31,15 +33,21 @@ _Private Repositories are excluded_
 
 ##### Web Development
 
-- JUnit, Mockito, Selenium 
+- Strapi
+
+- Django 
+
+- Next.js 
+
+- React
 
 - ASP.NET MVC 
 
-- Basic knowledge of React 
-
-- Spring Framework (Spring Boot, Spring Security, Spring Data, Spring MVC) 
+- Spring Framework (Spring Boot, Spring Security, Spring Data, Spring MVC, other Spring projects)
 
 - PHP Laravel
+
+- Testing (JUnit, Mockito, Selenium)
 
 ##### Mobile Development
 
