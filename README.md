@@ -15,7 +15,7 @@ _Private Repositories are excluded_
 ![2](https://github-readme-stats.vercel.app/api?username=Aleksandar1932&layout=compact)
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandar1932&layout=compact)
 
-
+![](https://komarev.com/ghpvc/?username=Aleksandar1932)
 
 #### ⚡ My skills
 
