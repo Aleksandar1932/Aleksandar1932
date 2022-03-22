@@ -55,13 +55,15 @@ _Private Repositories are excluded_
 
 - Firebase
 
+### 📄 Publications
+- [Leveraging Smartphones for Distributed Global Navigation Satellite System Post-Processing](https://ieeexplore.ieee.org/abstract/document/9596870/)
+
+- [Pandemic Symptoms Real-Time Ranking Platform](https://ieeexplore.ieee.org/abstract/document/9653200/)
+
 
 #### 🚀 List of my projects
 
-I encourage open source development, so all of the following projects are initially started by me, but the codebase is available for anyone.
-
-1. [BookLibrary](https://rebrand.ly/b1r8vm8)
-2. [ToDo](https://github.com/Aleksandar1932/todo-app)
+I encourage open source development, so explore my [Repositories](https://github.com/Aleksandar1932?tab=repositories) to find proejcts which I have open-sourced.
 
 #### 🌍 Find me around the web!
 
