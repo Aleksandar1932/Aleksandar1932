@@ -2,11 +2,7 @@
 
 #### 🧑‍💻 About me
 
-
-
-Final-year Computer Science Student, passionate about exploring new concepts, comfortable with working in a team, technologies and improving my existing skills through a continuous process of learning. Exploring new research areas and participation in various activities in order to improve competencies. Industry and Research interests spanning over data science, machine learning, web and mobile development.
-
-
+Passionate about machine learning and software engineering, exploring new concepts, comfortable with working in a team, technologies, and improving my existing skills through a continuous process of learning. Experience in both academia and industry by exploring new research areas and participating in various activities in order to improve competencies.
 
 #### 📈 Stats
 
